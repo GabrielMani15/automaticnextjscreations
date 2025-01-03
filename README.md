@@ -43,3 +43,13 @@ With automation at its core, the service optimizes your repository management, C
    ```bash
    git clone https://github.com/GabrielMani15/automaticnextjscreations
    cd automaticnextjscreations
+2. Run the script
+
+---
+
+## Error Handling  
+The script includes intelligent error-handling features:  
+- **Automatic Resolution**: If an error occurs, the script will attempt to resolve it automatically.  
+- **Error Reporting**: If the script cannot resolve the issue, it will inform you about the specific steps needed to fix it.  
+- **GitHub Login Issues**: If `gh login` fails, try installing [GitHub Desktop](https://desktop.github.com/) to resolve authentication issues.  
+
