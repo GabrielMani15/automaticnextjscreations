@@ -44,6 +44,8 @@ With automation at its core, the service optimizes your repository management, C
    git clone https://github.com/GabrielMani15/automaticnextjscreations
    cd automaticnextjscreations
 2. Run the script
+  ```bash
+   .\handlegn.bat
 
 ---
 
