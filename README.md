@@ -35,8 +35,7 @@ With automation at its core, the service optimizes your repository management, C
 
 ## Getting Started  
 ### Prerequisites  
-1. A GitHub account.  
-2. Node.js installed on your local machine.  
+1. A GitHub account.   
 
 ### Installation  
 1. Clone the repository:  
