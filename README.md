@@ -51,7 +51,7 @@ With automation at its core, the service optimizes your repository management, C
 
 ## Error Handling  
 The script includes intelligent error-handling features:  
-- **Automatic Resolution**: If an error occurs, the script will attempt to resolve it automatically.  
-- **Error Reporting**: If the script cannot resolve the issue, it will inform you about the specific steps needed to fix it.  
-- **GitHub Login Issues**: If `gh login` fails, try installing [GitHub Desktop](https://desktop.github.com/) to resolve authentication issues.  
+- Automatic Resolution: If an error occurs, the script will attempt to resolve it automatically.  
+- Error Reporting: If the script cannot resolve the issue, it will inform you about the specific steps needed to fix it.  
+- GitHub Login Issues: If `gh login` fails, try installing [GitHub Desktop](https://desktop.github.com/) to resolve authentication issues.  
 
